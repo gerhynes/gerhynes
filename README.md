@@ -1,6 +1,6 @@
 # Hi, I'm Gerard 👋
 
-I make fast, modern sites and apps using the [JAMstack](https://jamstack.org/) and fullstack JavaScript.
+I make fast, modern sites and apps using the [Jamstack](https://jamstack.org/) and fullstack JavaScript.
 
 - 🔭 Currently working on a few [Gatsby projects](https://github.com/GK-Hynes/100-days-of-gatsby)
 - 🌱 Getting better at Gatsby
