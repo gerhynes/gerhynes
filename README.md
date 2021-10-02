@@ -2,7 +2,7 @@
 
 I make fast, modern sites and apps using the [Jamstack](https://jamstack.org/) and fullstack JavaScript.
 
-✨ Currently learning [Next.js](https://nextjs.org/)
+🎓 Currently completing a HDip in Software Design and Development at NUI Galway.
 
 💯 Doing [#100DaysOfCode](<https://twitter.com/search?q=%23100daysofcode%20(from%3AGerard_K_Hynes)&f=live>)
 
