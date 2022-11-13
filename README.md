@@ -1,14 +1,16 @@
 # Hi, I'm Gerard 👋
 
-I make fast, modern sites and apps using the Jamstack and fullstack JavaScript.
+I'm a teacher turned software engineer, currently working on real-time reporting with Scala.
 
-🎓 Currently completing a HDip in Software Design and Development at NUI Galway.
+🎓 Recently completed a HDip in Software Design and Development at University of Galway
 
-📚 Learning Scala
+📚 Learning TypeScript and Kubernetes
 
-💯 Doing [#100DaysOfCode](<https://twitter.com/search?q=%23100daysofcode%20(from%3AGerard_K_Hynes)&f=live>)
+⛵ Based in Galway
 
 🧙 Ask me about Fantasy and Science Fiction (I once did a PhD on J.R.R. Tolkien)
+
+💻 [Personal site](https://gerardhynes.com/)
 
 📫 Reach me on [Twitter](https://twitter.com/Gerard_K_Hynes)
 
