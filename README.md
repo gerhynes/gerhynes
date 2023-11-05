@@ -1,10 +1,10 @@
 # Hi, I'm Gerard 👋
 
-I'm a teacher turned software engineer, currently working on real-time reporting with Scala.
+I'm a teacher turned software engineer, currently working on real-time reporting with Scala, Kafka, and Kubernetes.
 
-🎓 Recently completed a HDip in Software Design and Development at University of Galway
+🎓 Completed a HDip in Software Design and Development at University of Galway
 
-📚 Learning TypeScript and Kubernetes
+🎲 Working on ttrpg-based side projects with Next.js and TypeScript 
 
 ⛵ Based in Galway
 
@@ -12,7 +12,7 @@ I'm a teacher turned software engineer, currently working on real-time reporting
 
 💻 [Personal site](https://gerardhynes.com/)
 
-📫 Reach me on [Twitter](https://twitter.com/Gerard_K_Hynes)
+📫 Reach me on [Mastodon](https://mastodon.ie/@gerhynes)
 
 😄 He/him
 
