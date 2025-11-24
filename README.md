@@ -12,8 +12,9 @@ I'm a teacher turned software engineer, currently working on real-time reporting
 
 💻 [Personal site](https://gerardhynes.com/)
 
-📫 Reach me on [Mastodon](https://mastodon.ie/@gerhynes)
+📫 Reach me on [Bluesky](https://bsky.app/profile/gerardhynes.com)
 
 😄 He/him
 
 👋 Labhair Gaeilge liom
+
