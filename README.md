@@ -1,10 +1,10 @@
 # Hi, I'm Gerard 👋
 
-I'm a teacher turned software engineer, currently working on real-time reporting with Scala, Kafka, and Kubernetes.
+I'm a teacher turned software engineer, currently working on auth with Python and TypeScript.
 
 🎓 Completed a HDip in Software Design and Development at University of Galway
 
-🎲 Working on ttrpg-based side projects with Next.js and TypeScript 
+🎲 Working on ttrpg-based side projects, mostly with Next.js and TypeScript 
 
 ⛵ Based in Galway
 
